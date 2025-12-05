@@ -14,6 +14,5 @@ I’m currently a higher secondary student at Notre Dame College. I also serve a
 In my free time, I enjoy reading, watching films, solving physics problems and creating things.
 
 ---
-==============================
 **kausermahmud292@protonmail.com**
-==============================
+**==============================**
