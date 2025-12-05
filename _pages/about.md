@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Md. Kauser Mahmud, a Computer Science and Math enthusiast, and I love exploring these fields and learning new things along the way.  
+Hi, I'm Md. Kauser Mahmud, a **Computer Science** and **Math enthusiast**, and I love exploring these fields and learning new things along the way.  
 
 I’m currently a higher secondary student at Notre Dame College. I also serve as an executive at the Notre Dame Math Club and contribute to graphic design projects.  
 
-In my free time, I enjoy reading, watching films, solving physics problems and creating things.
+In my free time, I enjoy *reading, watching films, solving physics problems* and *creating things*.
 
 ---
 <b>kausermahmud292@protonmail.com</b><br>
-<b>=============================</b>
+<b>==============================</b>
