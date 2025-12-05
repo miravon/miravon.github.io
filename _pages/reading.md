@@ -3,7 +3,7 @@ permalink: /reading/
 title: "Reading"
 author_profile: true
 ---
-Here is what I am currently reading:
+Here is what I am reading:
 
 # 2025
 1. And Then There Were None - Agatha Christie
