@@ -7,17 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-# Hi, I'm Md. Kauser Mahmud
+Hi, I'm Mike, a Computer Science and Math enthusiast, and I love exploring these fields and learning new things along the way.  
 
-I'm a higher secondary student at **Notre Dame College**. I’m really into **Computer Science** and **Maths**, and I enjoy exploring all sorts of ideas just for fun.  
+I’m currently a higher secondary student at Notre Dame College. I also serve as an executive at the Saint Jacob Science Club and contribute to graphic design projects.  
 
-I’m currently an **executive at the Notre Dame Math Club** and also contribute to **graphic design projects**.  
-
-In my free time, I love **physics, reading**, and creating things. 
+In my free time, I enjoy reading, watching films, solving physics problems and creating things.
 
 ---
-**
 ==============================
-kausermahmud292@protonmail.com
+**kausermahmud292@protonmail.com**
 ==============================
-**
