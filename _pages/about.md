@@ -11,8 +11,8 @@ Hi, I'm Md. Kauser Mahmud, a **Computer Science** and **Math enthusiast**, and I
 
 I’m currently a higher secondary student at Notre Dame College. I also serve as an executive at Notre Dame Math Club and contribute to graphic design projects.  
 
-In my free time, I enjoy *reading, watching films, solving physics problems* and *creating things*.
+In my free time, I enjoy *reading, watching films, solving physics problems* and *creating things*. That's all for now I guess :))
 
 ---
 <b>kausermahmud292@protonmail.com</b><br>
-<b>==============================</b>
+<b>=============================</b>
