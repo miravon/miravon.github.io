@@ -5,6 +5,9 @@ author_profile: true
 ---
 Here is what I am reading:
 
+# 2026
+1. Project Hail Mary
+
 # 2025
 1. And Then There Were None - Agatha Christie
 2. The Yellow Wall-Paper - Charlotte Perkins Gilman
@@ -17,3 +20,4 @@ Here is what I am reading:
 9. Twenty Thousand Leagues Under the Sea - Jules Verne
 10. Romeo and Juliet - William Shakespeare
 11. A Christmas Carol - Charles Dickens
+12. Show your work
